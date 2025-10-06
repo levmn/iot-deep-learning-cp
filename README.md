@@ -53,13 +53,15 @@ Notas:
 Os resultados abaixo foram obtidos com `random_state=42` e normalização dos atributos.
 
 #### Exercício 1 — Classificação (Wine)
-- Rede Neural (Keras): **Acurácia de teste = 1.0000**
-- RandomForestClassifier: **Acurácia de teste = 1.0000**
+- Rede neural (Keras):
+  - Acurácia de teste = `1.0000`
+- RandomForestClassifier:
+  - Acurácia de teste = `1.0000`
 - Observação: ambos os modelos atingiram 100% de acurácia neste conjunto de treino/teste.
 
 #### Exercício 2 — Regressão (California Housing)
-- Rede Neural (Keras): **MSE 0.2629 | RMSE 0.5127 | MAE 0.3345 | R² 0.7994**
-- LinearRegression: **MSE 0.5559 | RMSE 0.7456 | MAE 0.5955 | R² 0.5758**
+- Rede Neural (Keras): `MSE 0.2629` | `RMSE 0.5127` | `MAE 0.3345` | `R² 0.7994`
+- LinearRegression: `MSE 0.5559` | `RMSE 0.7456` | `MAE 0.5955` | `R² 0.5758`
 - Observação: a rede neural superou a regressão linear em todas as métricas.
 
 ### Datasets utilizados
