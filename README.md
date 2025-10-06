@@ -63,5 +63,5 @@ Os resultados abaixo foram obtidos com `random_state=42` e normalização dos at
 - Observação: a rede neural superou a regressão linear em todas as métricas.
 
 ### Datasets utilizados
-- Wine (UCI): `https://archive.ics.uci.edu/dataset/109/wine`
-- California Housing (scikit-learn): `https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset`
+- [Wine (UCI)](https://archive.ics.uci.edu/dataset/109/wine)
+- [California Housing (scikit-learn)](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
